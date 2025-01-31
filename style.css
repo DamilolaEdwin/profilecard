@@ -1,0 +1,11 @@
+.opposite{
+    display: flex;
+}
+
+.half{
+    flex: 1;
+}
+.profilePic{
+    /* height: 600px;
+    width: 600px; */
+}
